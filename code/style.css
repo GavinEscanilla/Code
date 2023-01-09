@@ -1,0 +1,29 @@
+body{
+    padding: 25px;
+    background-image: url(157265.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    
+}
+.S1{
+    width: 90%;
+    background-color: yellowgreen;
+    background-position-y: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px;
+}
+.David{
+    width: 200px;
+    height: 200px;
+}
+.mc{
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+}
+.details{
+    
+    font-family: fantasy;
+
+}
