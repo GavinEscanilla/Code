@@ -8,7 +8,7 @@ body{
 .S1{
     width: 90%;
     background-color: yellowgreen;
-    background-position-y: center;
+    background-position: cover;
     margin-left: auto;
     margin-right: auto;
     border: 5px;
